@@ -9,6 +9,8 @@ export class SolicitudComponent implements OnInit {
 
   constructor() { }
 
+  solicitud = {nombre: "Enrique"};
+
   ngOnInit(): void {
   }
 
