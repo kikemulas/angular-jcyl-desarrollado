@@ -18,4 +18,9 @@ export class SolicitudComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  delete() {
+    console.log('eliminar!')
+    }
+
+
 }
